@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import ImageDisplay from './components/ImageDisplay';
 
 function App() {
